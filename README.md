@@ -1,4 +1,3 @@
 # raizdeeplinks
-https://osipovaleks-onix.github.io/raizdeeplinks/
 
-![GitHub Logo](/frame.png)
+new link for repo -> https://github.com/AcornsGrowAU/RaizDeeplinks
